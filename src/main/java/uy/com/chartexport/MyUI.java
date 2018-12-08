@@ -57,6 +57,8 @@ public class MyUI extends UI {
 
     @Override
     protected void init(VaadinRequest vaadinRequest) {
+    	
+    	addStyleName("login-screen");
         final VerticalLayout layout = new VerticalLayout();
 
        // layout.addComponent(getChart());

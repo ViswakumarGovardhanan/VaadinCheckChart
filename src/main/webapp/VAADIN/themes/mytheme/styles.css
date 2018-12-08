@@ -12932,3 +12932,12 @@ div.v-layout.v-horizontal.v-widget {
 	width: 19px;
 	overflow: hidden;
 }
+
+.mytheme .login-screen {
+	background: $editor-background-color;
+	background-image: url(img/archetype-login-bg.jpg);
+	background-size: cover;
+	background-position: 50% 50%;
+	width: 100%;
+	height: 100%;
+}
